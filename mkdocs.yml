@@ -1,0 +1,43 @@
+site_name: Lab Manual - Humphries Lab
+site_url: https://Humphries-Lab.github.io/Lab-Manual
+edit_uri: https://github.com/Humphries-Lab/Lab-Manual/edit/main/content
+docs_dir: content
+nav:
+    - Introduction: index.md
+    - practical.md
+    - roles.md
+    - principles.md
+    - policies.md
+    - collaborators.md
+    - funders.md
+    - reading.md
+
+# The following is not really the copyright notice.
+# It's just to get text in the footer.
+copyright: >
+    Mark Humphries ·
+    University of Nottingham ·
+    29th March 2019 ·
+    Correspondence: <a href="mailto:mark.humphries@nottingham.ac.uk">mark.humphries@nottingham.ac.uk</a>
+
+theme:
+    name: material
+    features:
+        - navigation.footer
+        - content.action.edit
+
+extra:
+    # Remove the "Made with Material for MkDocs" link
+    # (they can read that in the repo)
+    generator: false
+
+plugins:
+    - search
+    - git-revision-date-localized:
+        enable_creation_date: false
+
+markdown_extensions:
+    - toc:
+        permalink: '#'
+    # This enables the `!!! note` sidebars
+    - admonition
