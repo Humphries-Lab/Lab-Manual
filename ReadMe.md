@@ -1,24 +1,43 @@
-# Lab-Manual
+# Humphries' lab manual
 
-Source behind the Lab Manual of the [Humphries Lab](https://humphries-lab.org),
+Source behind the lab manual of the [Humphries lab](https://humphries-lab.org),
 which is hosted at:
 
-→ https://Humphries-Lab.github.io/Lab-Manual
+**→ [humphries-lab.github.io/Lab-Manual][1]**
 
-You can edit the source files on github* and the website will
-automatically update after a short while.
+[1]: https://humphries-lab.github.io/Lab-Manual
 
-\* {todo: explanation how: write access, PR or main}, 
-<!-- If you are a member of the Humphries-Lab github organization, you can also directly 'commit to main'. -->
+
+## Editing the manual
+
+You can make edits to the lab manual straight from your browser:
+
+1. Every page on the website contains an _edit this page_ icon (in the
+   top-right hand corner of the page)
+2. Clicking that icon opens the source of the page on GitHub.\
+   (namely, one of the markdown files in [`contents/`](contents))
+3. Make your proposed edits, and click the green _Commit changes_ button.
+4. This will open a Pull Request, for review by someone from the lab.
+    - If you are a member of the _Humphries-Lab_ GitHub Organization,
+      you can also directly 'commit to `main`', which will update the
+      website immediately, without review.
+
+When the PR is reviewed and merged (or when the commit to `main` is
+made), the website will automatically be rebuilt (by a GitHub/Microsoft
+computer), and the website will be updated after a short while.
+
+<br>
 
 The following is not necessary to edit the website.\
-But if you'd like, you can try out changes and build the website on your own computer too:
+But if you'd like, you can try out changes and build the website
+locally, on your own computer:
 
 
 ## Local live build
 
 Make sure you have a recent-ish Python version installed and available on your PATH.\
-<sub>If you haven't got Python, you can install it via e.g. `conda`, for which I recommend the [miniforge] distribution.</sub>
+<sub>If you haven't got Python, you can install it via e.g. `conda`, for
+which I recommend the [miniforge] distribution.</sub>
 
 [miniforge]: https://github.com/conda-forge/miniforge#download
 
@@ -34,13 +53,15 @@ The server can be stopped with `Ctrl-C`.
 
 ## About
 
-The manual was originally written in LaTeX by Mark,
+The lab manual was originally written in LaTeX by Mark,
 then converted to markdown using Pandoc,
 and finally wrangled into this form by Tomas Fiers.
 
 The website is built using [mkdocs], which is a so called 'static-site
 generator' (i.e. a markdown-to-html convertor), written in Python.\
-It is styled with the [mkdocs material theme].
+It is styled with the [mkdocs material theme].\
+See the documentation of those two projects for further information
+on customizing more than just the content of the website.
 
 [mkdocs]: https://www.mkdocs.org
 [mkdocs material theme]: https://squidfunk.github.io/mkdocs-material
