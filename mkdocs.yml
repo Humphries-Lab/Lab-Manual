@@ -30,6 +30,11 @@ extra:
     # Remove the "Made with Material for MkDocs" link
     # (they can read that in the repo)
     generator: false
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/Humphries-Lab/Lab-Manual
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/markdhumphries
 
 plugins:
     - search
