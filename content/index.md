@@ -12,8 +12,8 @@ within it.
 
 The public faces of the lab can be found here:
 
-- Lab website: <https://humphries-lab.org>
-- Twitter: <http://twitter.com/markdhumphries>
+- Lab website: [humphries-lab.org](website)
+- Twitter: [twitter.com/markdhumphries](twitter)
 
 Credit: ideas for the content have come from the lab manuals of 
 [Miriam Aly] (whose [Nature] opinion piece inspired this manual), 
@@ -22,8 +22,10 @@ Credit: ideas for the content have come from the lab manuals of
 If you spot any errors or out-of-date information in this manual, please
 suggest an edit to its [source on GitHub].
 
+[website]: https://humphries-lab.org
+[twitter]: https://twitter.com/markdhumphries
 [Miriam Aly]: https://github.com/alylab/labmanual
 [Nature]: https://www.nature.com/articles/d41586-018-06167-w
 [Jonathan Peelle]: https://github.com/jpeelle/peellelab_manual
 [Maureen Ritchey]: https://github.com/memobc/memolab-manual
-[source on GitHub]: https://github.com/Humphries-Lab/Lab-Manual
+[source on GitHub]: https://github.com/Humphries-Lab/Lab-Manual#readme
