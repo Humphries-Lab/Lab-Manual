@@ -15,7 +15,7 @@ You can make edits to the lab manual straight from your browser:
 1. Every page on the website contains an _edit this page_ icon (in the
    top-right hand corner of the page)
 2. Clicking that icon opens the source of the page on GitHub.\
-   (namely, one of the markdown files in [`contents/`](contents))
+   (namely, one of the markdown files in [`content/`](content))
 3. Make your proposed edits, and click the green _Commit changes_ button.
 4. This will open a Pull Request, for review by someone from the lab.
     - If you are a member of the _Humphries-Lab_ GitHub Organization,
