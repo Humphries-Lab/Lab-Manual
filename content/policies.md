@@ -60,8 +60,8 @@ adjust our approaches to catch errors in the future.
     I had to ditch all the simulations that were to make up Chapters 4 and
     5, and ran them all again from scratch. The lesson for the future: when
     coding connections between neurons, don't write the sign of the
-    connection into the arithmetic (`Input = A – w.B`); always write the sign
-    into the weights: (e.g. `Input = A + w.B`, and `w = –1`). That way, a quick
+    connection into the arithmetic (`Input = A - w.B`); always write the sign
+    into the weights: (e.g. `Input = A + w.B`, and `w = -1`). That way, a quick
     glance down the parameter values at the top of the code will show up any
     errors.
 
