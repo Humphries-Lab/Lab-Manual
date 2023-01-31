@@ -1,3 +1,7 @@
 
 /* No breaking-spaces within 'spans' in the footer */
 .md-copyright span { white-space: nowrap }
+
+/* The default 'admonition' ('note') text is a bit tiny */
+.md-typeset .admonition { font-size: 0.7rem }
+/* (default: 0.64rem. Main text: 0.8rem) */
