@@ -44,8 +44,11 @@ which I recommend the [miniforge] distribution.</sub>
 
 Clone this repository, and in the root directory run:
 ```
-$ pip install -r requirements.txt 
-$ mkdocs serve
+pip install -r requirements.txt
+```
+and
+```
+mkdocs serve
 ```
 This will build and serve a live-reloading version of the website at
 `http://127.0.0.1:8000`.\
