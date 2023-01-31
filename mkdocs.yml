@@ -30,9 +30,27 @@ copyright: >
 
 theme:
     name: material
+
     features:
-        - navigation.footer
-        - content.action.edit
+        - navigation.footer    # next/prev page in footer
+        - content.action.edit  # Icon link next to H1, to edit on GH
+
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              name: Switch to dark mode
+              icon: material/brightness-7
+          primary: teal
+          accent: teal
+
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+              name: Switch to light mode
+              icon: material/brightness-4
+          primary: teal
+          accent: teal
 
 extra_css:
   - style/custom.css
