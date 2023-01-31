@@ -1,0 +1,3 @@
+
+/* No breaking-spaces within 'spans' in the footer */
+.md-copyright span { white-space: nowrap }

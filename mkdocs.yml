@@ -13,18 +13,25 @@ nav:
     - reading.md
 
 # The following is not really the copyright notice.
-# It's just to get text in the footer.
+# It's rather a ± hack to get custom text in the footer.
+# The 'spans' are to have the spaces inside be non-breaking.
+# (see `content/style/custom.css`)
 copyright: >
-    Mark&nbsp;Humphries ·
-    University&nbsp;of&nbsp;Nottingham ·
-    29th&nbsp;March&nbsp;2019 ·
-    Correspondence: <a href="mailto:mark.humphries@nottingham.ac.uk">mark.humphries@nottingham.ac.uk</a>
+    <span>Mark Humphries</span> ·
+    <span>University of Nottingham</span> ·
+    <span>29th March 2019</span> ·
+    Correspondence:
+    <a href="mailto:mark.humphries@nottingham.ac.uk">
+    mark.humphries@nottingham.ac.uk</a>
 
 theme:
     name: material
     features:
         - navigation.footer
         - content.action.edit
+
+extra_css:
+  - style/custom.css
 
 extra:
     # Remove the "Made with Material for MkDocs" link
