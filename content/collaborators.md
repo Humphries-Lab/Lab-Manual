@@ -26,9 +26,8 @@ behaviour.
 
 **Nottingham computational neuroscience community** <br>
 Our immediate colleagues include Mark van Rossum (Psychology and
-Maths); Nikos Gekas (Psychology); Matias Ison (Psychology); Chris
-Madan (Psychology); Steve Coombes (Maths); Daniele Avitabile
-(Maths); and Ruediger Thul (Maths).
+Maths); Matias Ison (Psychology); Chris
+Madan (Psychology); Steve Coombes (Maths); and Ruediger Thul (Maths).
 
 **Nottingam's Precision Imaging Beacon** <br>
 Nottingham has a venerable tradition in human imaging: it is both
@@ -41,16 +40,8 @@ funding (for fellowships and pilot projects).
 
 ## National
 
-**NeuraxiS** (Nottingham and Sheffield) <br>
-A joint initiative between the
-computational neuroscience communities at Nottingham and Sheffield
-Universities. Its role is to help co-ordinate the work in both
-universities. Its first major output is the joint bid to the
-Wellcome Trust DTP programme in 2019; its second will be the 2019
-national conference for computational neuroscience. Mark founded the
-initiative, and steers it alongside Hannes Saal, Robert Schmidt and
-Stuart Wilson (all Sheffield). See
-<https://sites.google.com/view/neuraxisuk> for more.
+**Matt Apps** (Birmingham) <br>
+Matt's lab studies human decision-making, with a particular interest in decisions that require effort. We work together on foraging, the problem of deciding whether to stay or leave. Mark co-supervisors a PhD student with Matt, and we are joint PIs on a BBSRC grant starting in 2023.
 
 **Matt Jones** (Bristol) <br>
 Matt's lab studies prefrontal-hippocampal circuits,
@@ -61,10 +52,8 @@ Senior Fellowship. We work with a substantial data-set from Matt's
 lab on rats learning rules in a double-ended T-maze (or H-maze).
 Other datasets are available to the lab.
 
-**Tom Glibertson** (University Hospital, Dundee) <br>
-Tom is a clinical neurologist,
-specialising in dystonia. We collaborate with Tom in analysing and
-modelling behavioural data from his patient cohort.
+**Nathan Lepora** (Bristol) <br>
+Nathan's lab works on bio-inspired robotics, particularly the use of whisker-like sensors and neuro-inspired decision algorithms. Nathan's lab is part of the BBSRC grant with Matt Apps.
 
 **Rasmus Petersen** (Manchester) <br>
 Rasmus' lab studies the brain's sensory processing
@@ -74,6 +63,21 @@ with Rasmus as PI, one with Mark as PI. We work with Rasmus on the
 analysis of large-scale imaging data from mouse barrel cortex [Data
 are from Karel Svoboda's lab at Janelia Farm; Rasmus is our main
 contact with Janelia].
+
+**Tom Glibertson** (University Hospital, Dundee) <br>
+Tom is a clinical neurologist,
+specialising in dystonia. We collaborate with Tom in analysing and
+modelling behavioural data from his patient cohort.
+
+**NeuraxiS** (Nottingham and Sheffield) <br>
+COVID-19 put this initiative on hiatus. A joint initiative between the
+computational neuroscience communities at Nottingham and Sheffield
+Universities. Its role is to help co-ordinate the work in both
+universities. Its outputs included a 2018 joint meeting of the parties, the joint bid to the
+Wellcome Trust DTP programme in 2019, and the 2019 UK Neural Computation
+conference. Mark founded the initiative, and steers it alongside Hannes Saal, Robert Schmidt and
+Stuart Wilson (all Sheffield). See
+<https://sites.google.com/view/neuraxisuk> for more.
 
 
 ## International
