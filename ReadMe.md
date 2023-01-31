@@ -1,11 +1,12 @@
 # Humphries' lab manual
 
-Source behind the lab manual of the [Humphries lab](https://humphries-lab.org),
+Source behind the lab manual of the [Humphries lab][1],
 which is hosted at:
 
-**→ [humphries-lab.github.io/Lab-Manual][1]**
+**→ [humphries-lab.github.io/Lab-Manual][2]**
 
-[1]: https://humphries-lab.github.io/Lab-Manual
+[1]: https://humphries-lab.org
+[2]: https://humphries-lab.github.io/Lab-Manual
 
 
 ## Editing the manual
@@ -47,7 +48,7 @@ $ pip install -r requirements.txt
 $ mkdocs serve
 ```
 This will build and serve a live-reloading version of the website at
-`http://127.0.0.1:8000/`.\
+`http://127.0.0.1:8000`.\
 The server can be stopped with `Ctrl-C`.
 
 
