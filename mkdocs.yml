@@ -31,6 +31,8 @@ copyright: >
 theme:
     name: material
 
+    custom_dir: theme-override
+
     features:
         - navigation.footer    # next/prev page in footer
         - content.action.edit  # Icon link next to H1, to edit on GH
