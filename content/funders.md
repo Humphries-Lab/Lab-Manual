@@ -8,18 +8,22 @@ the BBSRC, EPSRC, and the Wellcome Trust.
 
 Major funds include, or will shortly include:
 
-**2012-2019** MRC Senior non-Clinical Fellowship (to Mark)<br>
-"Networks of neural dynamics". Includes collaborations with Rasmus
-Petersen, Adrien Peyrache and Sid Wiener, and Constance Hammond
+**2012-2019** · 
+MRC Senior non-Clinical Fellowship (to Mark) · 
+"Networks of neural dynamics" · 
+Includes collaborations with Rasmus Petersen, Adrien Peyrache and Sid
+Wiener, and Constance Hammond
 
-**2017-2019** MRC Project Grant (NMHB)<br>
-"Resolving the size and nature of neocortical population codes". PI.
-With Rasmus Petersen (Co-I) and Mat Evans (named PDRA).
+**2017-2019** · 
+MRC Project Grant (NMHB) · 
+"Resolving the size and nature of neocortical population codes" · 
+PI. With Rasmus Petersen (Co-I) and Mat Evans (named PDRA).
 
-**2019-2021** MRC Project Grant (NMHB)<br>
-"The Neural Basis of Movement Transitions". Mark sole PI. Data and
-support from the labs of Bill Frost and Lee Miller (also Chicago, by
-coincidence).
+**2019-2021** · 
+MRC Project Grant (NMHB) · 
+"The Neural Basis of Movement Transitions" · 
+Mark sole PI. Data and support from the labs of Bill Frost and Lee
+Miller (also Chicago, by coincidence).
 
 
 !!! note "The UK funding landscape"
