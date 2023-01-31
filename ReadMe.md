@@ -69,7 +69,7 @@ generator' (i.e. a markdown-to-html convertor), written in Python.\
 It is styled with the [mkdocs-material] theme.
 
 MkDocs and mkdocs-material are configured using the
-[`mkdocs.yml`](mkdocs.yml) YAML file in the root directory. It defines
+[`mkdocs.yml`](mkdocs.yml) [YAML] file in the root directory. It defines
 which pages are included (and in which order), what goes in the website
 footer, which plugins are enabled, etc.
 
@@ -86,7 +86,8 @@ a particular effect with the particular markdown syntax used here.
 
 [MkDocs]: https://www.mkdocs.org
 [mkdocs-material]: https://squidfunk.github.io/mkdocs-material
-[GitHub Action]: https://docs.github.com/en/actions
+[YAML]: https://en.wikipedia.org/wiki/YAML
+[GitHub Actions]: https://docs.github.com/en/actions
 [CI]: github/workflows/build.yml
 [`gh-pages`]: https://github.com/Humphries-Lab/Lab-Manual/tree/gh-pages
 [3]: https://www.mkdocs.org/user-guide/
