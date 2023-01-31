@@ -2,10 +2,10 @@ name: build-website
 on:
   push:
     branches: ['main']
-    paths:
-      - content/**
-      - mkdocs.yml
-      - requirements.txt
+    paths-ignore:
+      - ReadMe.md
+      - License.md
+      - .gitignore.md
 permissions:
   contents: write
 jobs:
