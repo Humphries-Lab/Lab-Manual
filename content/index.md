@@ -12,8 +12,8 @@ within it.
 
 The public faces of the lab can be found here:
 
-- Lab website: [humphries-lab.org](website)
-- Twitter: [twitter.com/markdhumphries](twitter)
+- Lab website: [humphries-lab.org][website]
+- Twitter: [twitter.com/markdhumphries][twitter]
 
 Credit: ideas for the content have come from the lab manuals of 
 [Miriam Aly] (whose [Nature] opinion piece inspired this manual), 
