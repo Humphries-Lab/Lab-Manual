@@ -26,7 +26,7 @@ proof, only disprove. Thus, we aspire to do strong inference (Platt,
     result
 
 Then: (1') reiterate the procedure to refine the remaining
-possibilities.\
+possibilities.<br>
 In practice this means:
 
 -   Write down hypotheses, before starting analysis (or model building).
