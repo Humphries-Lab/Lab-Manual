@@ -44,5 +44,10 @@ plugins:
 markdown_extensions:
     - toc:
         permalink: '#'
+
     # This enables the `!!! note` sidebars
     - admonition
+
+    # https://python-markdown.github.io/extensions/smarty/
+    # "x" → “x”, -- → –, etc
+    - smarty
