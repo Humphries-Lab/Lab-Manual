@@ -1,7 +1,7 @@
 site_name: Lab Manual - Humphries Lab
-site_url: https://Humphries-Lab.github.io/Lab-Manual
+site_url: https://humphries-lab.github.io/Lab-Manual
 edit_uri: https://github.com/Humphries-Lab/Lab-Manual/edit/main/content
-docs_dir: content
+docs_dir: content  # Default: docs
 nav:
     - Introduction: index.md
     - practical.md
@@ -13,13 +13,17 @@ nav:
     - reading.md
 
 # The following is not really the copyright notice.
-# It's rather a ± hack to get custom text in the footer.
-# The 'spans' are to have the spaces inside be non-breaking.
-# (see `content/style/custom.css`)
+# It's rather a sort-of hack to get custom text in the footer.
+# The 'spans' are to have the spaces inside be non-breaking -- i.e. so that
+# the text inside stays on one line; this is mostly relevant on mobile.
+# (The non-breaking ('nowrap') rule is defined in `content/style/custom.css`)
 copyright: >
     <span>Mark Humphries</span> ·
+
     <span>University of Nottingham</span> ·
+
     <span>29th March 2019</span> ·
+
     Correspondence:
     <a href="mailto:mark.humphries@nottingham.ac.uk">
     mark.humphries@nottingham.ac.uk</a>
@@ -34,27 +38,36 @@ extra_css:
   - style/custom.css
 
 extra:
+
     # Remove the "Made with Material for MkDocs" link
     # (they can read that in the repo)
     generator: false
+
     social:
         - icon: fontawesome/brands/github
           link: https://github.com/Humphries-Lab/Lab-Manual
+
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/markdhumphries
 
+        - icon: fontawesome/solid/house
+          link: https://www.humphries-lab.org/
+
+
+
 plugins:
     - search
-    - git-revision-date-localized:
-        enable_creation_date: false
+    - git-revision-date-localized
 
 markdown_extensions:
+
+    # Makes (sub)headings linkable
     - toc:
         permalink: '#'
 
     # This enables the `!!! note` sidebars
     - admonition
 
-    # https://python-markdown.github.io/extensions/smarty/
-    # "x" → “x”, -- → –, etc
+    # Auto-converts "x" → “x”, -- → –, etc
+    # (https://python-markdown.github.io/extensions/smarty)
     - smarty
