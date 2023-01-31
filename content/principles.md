@@ -1,5 +1,5 @@
 
-# How we aspire to work: the lab principles
+# How we aspire to work: <br>the lab principles
 
 Lab motto: don't be afraid to be wrong.
 

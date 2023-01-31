@@ -15,3 +15,6 @@
 
 /* Lines a bit shorter (cosier, easier to read) */
 .md-grid { max-width: 56rem }  /*  default: 61rem */
+
+/* No linebreaks in page header (we do want 'em in TOC and on-page) */
+.md-header__title .md-header__topic br { display: none }

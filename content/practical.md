@@ -1,4 +1,4 @@
-# Practical information: how the lab works day-to-day
+# Practical information: <br>how the lab works day-to-day
 
 How labs work evolves over time as they grow or shrink, as they change
 direction, or move institution. This is how we currently work:
