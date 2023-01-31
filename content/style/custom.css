@@ -3,7 +3,7 @@
 .md-copyright span { white-space: nowrap }
 
 /* The default 'admonition' ('note') text is a bit tiny */
-.md-typeset .admonition { font-size: 0.7rem }  /* default: 0.64rem. Main text: 0.8rem */
+.md-typeset .admonition { font-size: 0.75rem }  /* default: 0.64rem. Main text: 0.8rem */
 
 /* The nav footer is a bit big by default */
 .md-footer__link { padding-top: 1rem }  /* default: 1.4rem */
@@ -12,3 +12,6 @@
 
 /* Hide the default logo */
 .md-header__button.md-logo { display: none }
+
+/* Lines a bit shorter (cosier, easier to read) */
+.md-grid { max-width: 56rem }  /*  default: 61rem */
