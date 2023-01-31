@@ -40,9 +40,7 @@ Make sure you have a recent-ish Python version installed and available on your P
 <sub>If you haven't got Python, you can install it via e.g. `conda`, for
 which I recommend the [miniforge] distribution.</sub>
 
-[miniforge]: https://github.com/conda-forge/miniforge#download
-
-Clone this repository, and in the root directory run:
+[Clone] this repository, and in its root directory, [run]:
 ```
 pip install -r requirements.txt
 ```
@@ -51,21 +49,43 @@ and
 mkdocs serve
 ```
 This will build and serve a live-reloading version of the website at
-`http://127.0.0.1:8000`.\
+http://127.0.0.1:8000\
 The server can be stopped with `Ctrl-C`.
+
+
+[miniforge]: https://github.com/conda-forge/miniforge#download
+[Clone]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+[run]: https://www.twilio.com/docs/usage/tutorials/a-beginners-guide-to-the-command-line
 
 
 ## About
 
-The lab manual was originally written in LaTeX by Mark,
-then converted to markdown using Pandoc,
-and finally wrangled into this form by Tomas Fiers.
+The lab manual was originally written in LaTeX by Mark Humphries, and
+was converted to the current editable-website form by
+[Tomas Fiers](https://tomasfiers.net).
 
-The website is built using [mkdocs], which is a so called 'static-site
+The website is built using [MkDocs], which is a so called 'static-site
 generator' (i.e. a markdown-to-html convertor), written in Python.\
-It is styled with the [mkdocs material theme].\
-See the documentation of those two projects for further information
-on customizing more than just the content of the website.
+It is styled with the [mkdocs-material] theme.
 
-[mkdocs]: https://www.mkdocs.org
-[mkdocs material theme]: https://squidfunk.github.io/mkdocs-material
+MkDocs and mkdocs-material are configured using the
+[`mkdocs.yml`](mkdocs.yml) YAML file in the root directory. It defines
+which pages are included (and in which order), what goes in the website
+footer, which plugins are enabled, etc.
+
+On every commit to the `main` branch on GitHub, the _[GitHub Action]_
+defined in [`.github/workflows/build.yml`][CI] starts, which runs
+MkDocs, and commits the resulting HTML, CSS, and Javascript files to
+the [`gh-pages`] branch, which is what is visible on the website.
+
+For more on how to customize the website (beyond just editing its
+content), please see the documentation websites [of MkDocs][3] and
+[mkdocs-material][4].
+
+[MkDocs]: https://www.mkdocs.org
+[mkdocs-material]: https://squidfunk.github.io/mkdocs-material
+[GitHub Action]: https://docs.github.com/en/actions
+[CI]: github/workflows/build.yml
+[`gh-pages`]: https://github.com/Humphries-Lab/Lab-Manual/tree/gh-pages
+[3]: https://www.mkdocs.org/user-guide/
+[4]: https://squidfunk.github.io/mkdocs-material/creating-your-site/#advanced-configuration
