@@ -14,11 +14,11 @@ which is hosted at:
 You can make edits to the lab manual straight from your browser:
 
 1. Every page on the website contains an _edit this page_ icon (in the
-   top-right-hand corner of the page, right of the main heading).
+   top-right-hand corner of the page, to the right of the main heading).
 2. Clicking that icon opens the source of the page on GitHub.
    (This will be one of the markdown files in [`content/`](content))
 3. Make your proposed edits, and click the green _Commit changes_ button.
-4. This will open a Pull Request, for review by someone from the lab.
+4. This will open a _Pull Request_ (PR), for review by someone from the lab.
     - If you are a member of the _Humphries-Lab_ GitHub Organization,
       you can also directly 'commit to `main`', which will update the
       website immediately, without review.
@@ -49,7 +49,7 @@ and
 mkdocs serve
 ```
 This will build and serve a live-reloading version of the website at
-http://127.0.0.1:8000\
+http://127.0.0.1:8000 \
 The server can be stopped with `Ctrl-C`.
 
 
@@ -73,14 +73,16 @@ MkDocs and mkdocs-material are configured using the
 which pages are included (and in which order), what goes in the website
 footer, which plugins are enabled, etc.
 
-On every commit to the `main` branch on GitHub, the _[GitHub Action]_
+On every commit to the `main` branch on GitHub, the [GitHub Actions] 'workflow'
 defined in [`.github/workflows/build.yml`][CI] starts, which runs
-MkDocs, and commits the resulting HTML, CSS, and Javascript files to
+`mkdocs, and commits the resulting HTML, CSS, and Javascript files to
 the [`gh-pages`] branch, which is what is visible on the website.
 
 For more on how to customize the website (beyond just editing its
-content), please see the documentation websites [of MkDocs][3] and
-[mkdocs-material][4].
+content) please see the documentation [of MkDocs][3] and 
+[mkdocs-material][4].\
+Those resources are also useful when you're wondering how to achieve
+a particular effect with the particular markdown syntax used here.
 
 [MkDocs]: https://www.mkdocs.org
 [mkdocs-material]: https://squidfunk.github.io/mkdocs-material
