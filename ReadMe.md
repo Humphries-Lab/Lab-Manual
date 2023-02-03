@@ -30,8 +30,8 @@ computer), and the website will be updated after a short while.
 <br>
 
 The following is not necessary to edit the website.\
-But if you'd like, you can try out changes and build the website
-locally, on your own computer:
+But if you'd like, you can build the website
+locally, and try out changes on your own computer:
 
 
 ## Local live build
@@ -73,9 +73,9 @@ was converted to the current editable-website form by [Tomas Fiers](https://toma
 
 (Not including small changes)
 
-- First version: 29th March 2019
-- Last LaTeX version: 28th April 2020
-- Conversion to website: 30th January 2023
+- 2019, March 29th: First version
+- 2020, April 28th: Last LaTeX version
+- 2023, January 30th: Conversion to website
 
 ### Technology
 
@@ -83,13 +83,13 @@ The website is built using [MkDocs], which is a so called 'static-site
 generator' (i.e. a markdown-to-html convertor), written in Python.
 It is styled with the [mkdocs-material] theme.
 
-MkDocs and mkdocs-material are configured with the
-[`mkdocs.yml`](mkdocs.yml) [YAML] file in the root directory. It defines
+MkDocs and mkdocs-material are configured with
+[`mkdocs.yml`](mkdocs.yml). This [YAML] file defines
 which pages are included (and in which order), what goes in the website
 footer, which plugins are enabled, etc.
 
-On every commit to the `main` branch on GitHub, the [GitHub Actions] 'workflow'
-defined in [`.github/workflows/build.yml`][CI] starts, which runs
+On every commit to the `main` branch on GitHub, the process
+defined in [`.github/workflows/build.yml`][CI] starts. This is a [GitHub Actions] 'workflow'. It runs
 `mkdocs`, and commits the resulting HTML, CSS, and Javascript files to
 the [`gh-pages`] branch, which is what is visible on the website.
 
@@ -103,8 +103,8 @@ the [`gh-pages`] branch, which is what is visible on the website.
 ### Customization & Markdown syntax
 
 For more on how to customize the website (beyond just editing its
-content) please see the documentation [of MkDocs][3] and 
-[mkdocs-material][4].
+content) please see the [documentation of MkDocs][3] and 
+[of mkdocs-material][4].
 
 Those resources are also useful when you're wondering how to achieve
 some typographic effect with the particular markdown syntax used here.
