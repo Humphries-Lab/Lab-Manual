@@ -27,6 +27,8 @@ When the PR is reviewed and merged (or when the commit to `main` is
 made), the website will automatically be rebuilt (by a GitHub/Microsoft
 computer), and the website will be updated after a short while.
 
+For more on the particular Markdown syntax used, [see below](#customization--markdown-syntax).
+
 <br>
 
 The following is not necessary to edit the website.\
