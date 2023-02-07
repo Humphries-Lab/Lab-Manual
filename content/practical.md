@@ -18,10 +18,12 @@ The lab has a Google Calendar to track all scheduled lab events
 everyone to enter their holidays; and for adding interesting
 external events (local seminars, conferences etc).
 
-**Action**: Ask Mark to give you access to the lab calendar.
+The lab also has a Team on Microsoft Teams, for online meetings and hybrid attendance at in-person meetings.
+
+**Action**: Ask Mark to give you access to the lab calendar and the lab's Team.
 
 ## Lab meetings
-Lab meetings are weekly*, from 12-1pm. Meeting content
+Lab meetings are weekly*, and scheduled on the Google Calendar. Meeting content
 alternates: week 1 is a data club; week 2 is a journal club; both
 follow a rota so all members will present. Data clubs are a chance
 to present your latest results, your problems you want to solve, or
@@ -34,13 +36,12 @@ guide to presenting work-in-progress papers in lab meetings is here:
 numbers of people are absent
 
 ## Data storage
-We're still grappling with Nottingham's new systems. The aspiration
-is that each major data analysis project will store its data in a
-separate folder on Sharepoint.
+Each major data analysis project will store its data in a
+separate folder on the lab's Sharepoint.
 
 ## Code
 We use Matlab by default; everyone is encouraged to use and/or learn
-Python. Mark does not know Python, as he is a dinosaur. We like the
+Python. Mark is slowly learning Python, as he is a dinosaur. We like the
 look of Julia, but have not been brave enough to dive in yet.
 
 **Action**: Matlab should already be installed on your PC. Register
@@ -52,10 +53,12 @@ We use GitHub for code sharing. Consequently, we use Git for version
 control when needed. We strive to upload all our computational
 models to ModelDB.
 
+**Action**: (Step 0: create a GitHub account). Ask Mark to add your GitHub account to the lab's [Organisation](https://github.com/humphries-lab).
+
 ## Writing
-We write all papers in LaTeX by default; for co-writing papers with
-collaborators who do not know LaTeX, we will use Word with gritted
-teeth. Or Google Docs like a sane person.
+We write all papers in LaTeX by default. For co-writing papers with
+collaborators who do not know LaTeX, we will use a word processor with gritted
+teeth. Option 1: Use pandoc to convert LaTeX to Word (good for papers). Option 2: use Google Docs (good for grants, abstracts etc).
 
 ## Graphics
 We currently prefer Inkscape for our main needs: laying out panels
@@ -68,7 +71,7 @@ Some useful information on when you are and are not supposed to be
 working:
 
 **University holidays**: <https://www.nottingham.ac.uk/about/keydates/index.aspx><br>
-Note in particular that UK universities close completely over   Christmas.
+Note in particular that UK universities close completely over Christmas.
 
 **UK public holidays**: <https://www.gov.uk/bank-holidays><br>
 p.s. the UK calls all public holidays "bank holidays".
