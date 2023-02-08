@@ -73,11 +73,14 @@ was converted to the current editable-website form by [Tomas Fiers](https://toma
 
 ### Version history
 
-(Not including small changes)
+- First version: March 29th, 2019
+- Last LaTeX version: April 28th, 2020
+- Conversion to website: January 30th, 2023
 
-- 2019, March 29th: First version
-- 2020, April 28th: Last LaTeX version
-- 2023, January 30th: Conversion to website
+For more fine-grained changes, from 2023 on,
+see the [commit log].
+
+[commit log]: https://github.com/Humphries-Lab/Lab-Manual/commits/main
 
 ### Technology
 
