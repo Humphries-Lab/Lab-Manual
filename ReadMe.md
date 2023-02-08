@@ -91,15 +91,16 @@ which pages are included (and in which order), what goes in the website
 footer, which plugins are enabled, etc.
 
 On every commit to the `main` branch on GitHub, the process
-defined in [`.github/workflows/build.yml`][CI] starts. This is a [GitHub Actions] 'workflow'. It runs
-`mkdocs`, and commits the resulting HTML, CSS, and Javascript files to
+defined in [`.github/workflows/build.yml`][CI] starts.
+This is a [GitHub Actions] 'workflow'. It runs `mkdocs`,
+and commits the resulting HTML, CSS, and Javascript files to
 the [`gh-pages`] branch, which is what is visible on the website.
 
 [MkDocs]: https://www.mkdocs.org
 [mkdocs-material]: https://squidfunk.github.io/mkdocs-material
 [YAML]: https://en.wikipedia.org/wiki/YAML
 [GitHub Actions]: https://docs.github.com/en/actions
-[CI]: github/workflows/build.yml
+[CI]: .github/workflows/build.yml
 [`gh-pages`]: https://github.com/Humphries-Lab/Lab-Manual/tree/gh-pages
 
 ### Customization & Markdown syntax
