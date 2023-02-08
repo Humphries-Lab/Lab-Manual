@@ -64,7 +64,7 @@ analysis of large-scale imaging data from mouse barrel cortex [Data
 are from Karel Svoboda's lab at Janelia Farm; Rasmus is our main
 contact with Janelia].
 
-**Tom Glibertson** (University Hospital, Dundee) <br>
+**Tom Gilbertson** (University Hospital, Dundee) <br>
 Tom is a clinical neurologist,
 specialising in dystonia. We collaborate with Tom in analysing and
 modelling behavioural data from his patient cohort.
