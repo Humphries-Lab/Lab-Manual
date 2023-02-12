@@ -126,6 +126,7 @@ collaborators that we would like to share the data to accompany the
 shared code in this best of all possible worlds. And that we will do
 everything in our power to help to do so, if necessary.
 
+If we have data to openly share, one obvious option is [Nottingham's Research Data Management Repository] (https://rdmc.nottingham.ac.uk/)
 
 ## Who works on what
 
