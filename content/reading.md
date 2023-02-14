@@ -12,3 +12,4 @@ Doing science:
 Working in science:
 
 - Bela Z Schmidt [What 50 principal investigators taught me about my failure to land tenure](https://www.nature.com/articles/d41586-019-00560-9). Nature, 12 February 2019.
+- Richard Hamming [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Transcript of a talk given in 1986.
