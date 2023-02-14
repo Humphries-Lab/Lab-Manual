@@ -8,7 +8,21 @@ the BBSRC, EPSRC, and the Wellcome Trust.
 
 Major funds include, or will shortly include:
 
-**2012-2019** · 
+**2022-2025** ·
+Innovate UK Biomedical Catalyst grant · "GEMINI OS": predicting the suitability of Parkinson's patients for Deep Brain Stimulation · with Machine Medicine Technologies Ltd (PI, London), and St George's Hospital (London).
+
+**2023-2025** ·
+BBSRC Computational Cognitive Neuroscience grant · "The computational basis of learning to forage" · Mark Co-PI, with Matt Apps (Co-PI, Birmingham) and Nathan Lepora (Co-I, Bristol)
+
+**2020-2023** ·
+MRC Project Grant (NMHB) · 
+"The Neural Basis of Movement Transitions" · 
+Mark sole PI. Data and support from the labs of Bill Frost and Lee
+Miller (also Chicago, by coincidence).
+
+Previous major projects have included:
+
+**2012-2020** · 
 MRC Senior non-Clinical Fellowship (to Mark) · 
 "Networks of neural dynamics" · 
 Includes collaborations with Rasmus Petersen, Adrien Peyrache and Sid
@@ -18,13 +32,6 @@ Wiener, and Constance Hammond
 MRC Project Grant (NMHB) · 
 "Resolving the size and nature of neocortical population codes" · 
 PI. With Rasmus Petersen (Co-I) and Mat Evans (named PDRA).
-
-**2019-2021** · 
-MRC Project Grant (NMHB) · 
-"The Neural Basis of Movement Transitions" · 
-Mark sole PI. Data and support from the labs of Bill Frost and Lee
-Miller (also Chicago, by coincidence).
-
 
 !!! note "The UK funding landscape"
 
@@ -52,4 +59,4 @@ Miller (also Chicago, by coincidence).
     Historically, the UK has been the most successful of all EU nations at
     winning funding from the EU funding bodies, both from the large projects
     supported by the EU Framework funds (e.g. Horizon2020) and the personal
-    awards from the European Research Council. We await our fate there.
+    awards from the European Research Council. Current UK government policy is to underwrite any successful Horizon Europe or ERC funding bids until an agreement is reached on whether the UK can join the Horizon programme as a third-party. We still await our fate there.
