@@ -36,7 +36,7 @@ Your computer will die. All working files on your computer should be
 replicated elsewhere, at all times. At minimum, use an automated
 program to back up to an external hard-drive. Better, use
 cloud-based storage - this will also let you sync work across
-machines.
+machines. The default cloud storage at Nottingham University is OneDrive.
 
 ### A Just Culture
 As scientists we are always learning: about new ways of analysing
@@ -58,7 +58,7 @@ adjust our approaches to catch errors in the future.
     crucial error: the STN input to the GP had a minus sign in front of it.
     It was inhibiting, not exciting, GP. Already past the end of my funding,
     I had to ditch all the simulations that were to make up Chapters 4 and
-    5, and ran them all again from scratch. The lesson for the future: when
+    5, and run them all again from scratch. The lesson for the future: when
     coding connections between neurons, don't write the sign of the
     connection into the arithmetic (`Input = A - w.B`); always write the sign
     into the weights: (e.g. `Input = A + w.B`, and `w = -1`). That way, a quick
@@ -70,7 +70,7 @@ adjust our approaches to catch errors in the future.
 
 Until we reach that bright future where papers are no longer the de
 facto currency of academia, and/or where author names are solely linked
-to contributions like film credits, authorship will remain a tricky
+to contributions as they are in film credits, authorship will remain a tricky
 subject. Who gets their name on the paper, and where it goes on the list
 of authors, can cause problems. Our criteria are simple, and similar in
 spirit to the criteria of the [ICMJE] guidelines:
@@ -140,7 +140,7 @@ policies for behavioural conduct. Briefly, these are:
 
 -   [Equality and Diversity policies][2].
     That diversity across age, gender, race, culture, physical and
-    mental ability, religion are to be celebrated.
+    mental ability, and religion are to be celebrated.
 
 [1]: https://www.nottingham.ac.uk/hr/guidesandsupport/complaintsgrievanceanddignity/dignity/dignity-at-nottingham.aspx
 [2]: https://www.nottingham.ac.uk/hr/guidesandsupport/equalityanddiversitypolicies/index.aspx
