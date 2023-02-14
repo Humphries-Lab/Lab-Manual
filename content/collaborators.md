@@ -39,6 +39,8 @@ funding (for fellowships and pilot projects).
 
 
 ## National
+**Machine Medicine Technologies Ltd** <br>
+London-based healthcare-tech company, who we work with on an Innovate UK grant to develop an application for predicting the suitability of Parkinson's disease patients for Deep Brain Stimulation, alongside the clinical team from St George's Hospital (London). CEO: Jonathan O'Keefe. 
 
 **Matt Apps** (Birmingham) <br>
 Matt's lab studies human decision-making, with a particular interest in decisions that require effort. We work together on foraging, the problem of deciding whether to stay or leave. Mark co-supervisors a PhD student with Matt, and we are joint PIs on a BBSRC grant starting in 2023.
@@ -87,6 +89,9 @@ Bill's lab studies the motor systems
 of molluscs, particularly sea-slugs, with high-resolution
 voltage-sensitive dye imaging. We work together on understanding how
 the dynamics of neural populations controls movement.
+
+**Matt Perich** (University of Montreal) <br>
+We collaborate with Matt on his primate motor cortex datasets, collected in the lab of Lee Miller (Chicago).
 
 **Adrien Peyrache** (Monteral Neurological Institute) <br>
 Adrien's lab works on the
