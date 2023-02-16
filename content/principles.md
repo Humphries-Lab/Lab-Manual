@@ -124,9 +124,26 @@ As we openly share code, so we would like to openly share the data too.
 But often it is not our data. So we make it politely clear to our
 collaborators that we would like to share the data to accompany the
 shared code in this best of all possible worlds. And that we will do
-everything in our power to help to do so, if necessary.
+everything in our power to help to do so, if necessary.<br>
+For example, we have been directly involved in making
+two data-sets open access:
 
-If we have data to openly share, one obvious option is [Nottingham's Research Data Management Repository](https://rdmc.nottingham.ac.uk/)
+- [Voltage sensitive dye imaging data][VSD] from the _Aplysia_ pedal ganglion,
+  as used in [Bruno, Frost & Humphries (2017) eLife][elife].
+
+- [Tetrode recordings in prefrontal cortex and behavioural data][Y]
+  from rats learning rules in a Y-maze. Data from Adrien Peyrache
+  and colleagures. Used in a range of papers, but made open access
+  with us (we contributed the example analysis code to the repository)
+  for [Maggi, Peyrache & Humphries (2018) Nature Communications][ncomm].
+
+[VSD]: http://crcns.org/data-sets/aplysia/apl-1/about-apl-1
+[elife]: https://elifesciences.org/articles/27342
+[Y]: http://crcns.org/data-sets/pfc/pfc-6/about-pfc-6
+[ncomm]: https://www.nature.com/articles/s41467-018-04638-2
+
+For future data to openly share, another option besides CRCNS is
+[Nottingham's Research Data Management Repository](https://rdmc.nottingham.ac.uk/)
 
 ## Who works on what
 
