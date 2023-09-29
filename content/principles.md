@@ -88,9 +88,7 @@ means we:
 
 We pre-print every paper on which it is our decision to make.
 Neuroscience papers go to bioRxiv. Technical papers to arXiv. Our policy
-is to submit pre-prints simultaneously with the initial submission to
-the journal at the latest. For some projects, it can make more sense to
-pre-print before initial submission. Pre-prints are then updated with
+is to post a pre-print when the manuscript is first sent to review by a journal at the latest. Pre-prints are then updated with
 every major revision to the manuscript that comes as a result of the
 reviews.
 
