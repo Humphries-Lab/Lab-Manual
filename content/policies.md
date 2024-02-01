@@ -24,9 +24,8 @@ seed.
 
 ### Code should be consistent and reviewable
 As all our work depends on code it is in our interests to adopt good coding practices. 
-The [lab code policy](https://github.com/Humphries-Lab/Lab-Manual/blob/main/content/Humphries%20Lab%20Code%20Policy-v1pt1-online.pdf) covers
-1. how to write code
-2. code reviews. Call one of these to have the lab check any research-critical code.
+The [lab code policy](https://github.com/Humphries-Lab/Lab-Manual/blob/main/content/Humphries%20Lab%20Code%20Policy-v1pt1-online.pdf) covers how to write code
+and the lab code reviews. Call a review to have the lab check any research-critical code.
 
 
 ### Document your work
