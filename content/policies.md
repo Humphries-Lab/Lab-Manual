@@ -22,6 +22,13 @@ results. Hint: always save parameters from any simulation code that
 will be used for a paper. That includes the random number generator
 seed.
 
+### Code should be consistent and reviewable
+As all our work depends on code it is in our interests to adopt good coding practices. 
+The [lab code policy](https://github.com/Humphries-Lab/Lab-Manual/blob/main/content/Humphries%20Lab%20Code%20Policy-v1pt1-online.pdf) covers
+1. how to write code
+2. code reviews. Call one of these to have the lab check any research-critical code.
+
+
 ### Document your work
 Use whatever works for you, but document your work. That could be a
 lab book, whether paper or tablet, with notes on each analysis or
