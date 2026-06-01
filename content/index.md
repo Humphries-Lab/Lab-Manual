@@ -13,8 +13,8 @@ within it.
 The public faces of the lab can be found here:
 
 - Lab website: [humphries-lab.org][website]
-- Twitter: [markdhumphries][twitter]
-- Mastodon: [neuromatch.social/@markdhumphries][mastodon]
+- Bluesky: [markdhumphries][bluesky]
+- LinkedIn: [Mark Humphries][linkedin]
 
 Credit: ideas for the content have come from the lab manuals of 
 [Miriam Aly] (whose [Nature] opinion piece inspired this manual), 
@@ -25,6 +25,8 @@ suggest an edit to its [source on GitHub].
 
 [website]: https://humphries-lab.org
 [twitter]: https://twitter.com/markdhumphries
+[bluesky]: https://bsky.app/profile/markdhumphries.bsky.social
+[linkedin]: https://www.linkedin.com/in/mark-humphries-65a460212/
 [mastodon]: https://neuromatch.social/@markdhumphries
 [Miriam Aly]: https://github.com/alylab/labmanual
 [Nature]: https://www.nature.com/articles/d41586-018-06167-w
