@@ -27,6 +27,7 @@ As all our work depends on code it is in our interests to adopt good coding prac
 The [lab code policy](https://github.com/Humphries-Lab/Lab-Manual/blob/main/content/Humphries%20Lab%20Code%20Policy-v1pt1-online.pdf) covers how to write code
 and the lab code reviews. Call a review to have the lab check any research-critical code.
 
+Read Russ Poldrack's book [Better Code, Better Science](https://bettercode-book.org/). Especially the chapter on Tests.
 
 ### Document your work
 Use whatever works for you, but document your work. That could be a
